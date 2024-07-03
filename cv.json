@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Liza Oneill",
+    "label": "Digital Innovator & Creative Media Strategist with over 10 years of experience in pioneering content and driving audience engagement.",
+    "image": "https://randomuser.me/api/portraits/women/50.jpg",
+    "email": "lizaoneill@mail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://lizaoneill.com",
+    "summary": "Pioneering new strategies and content to push the boundaries of the digital media landscape. Passionate about creating engaging experiences that captivate audiences and drive innovation.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "IAmLizaOneill",
+        "url": "https://github.com/IAmLizaOneill"
+      },
+      {
+        "network": "X",
+        "username": "IAmLizaOneill",
+        "url": "https://x.com/IAmLizaOneill"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "IAmLizaOneill",
+        "url": "https://linkedin.com/in/IAmLizaOneill"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tech Pioneers",
+      "position": "Director of Digital Innovation",
+      "url": "https://techpioneers.com",
+      "startDate": "2021-10-01",
+      "endDate": "null",
+      "summary": "Overseeing the digital innovation department, driving forward-thinking initiatives to maintain the company's leadership in the tech industry.",
+      "highlights": [
+        "Launched a groundbreaking AI-powered content creation tool, reducing production time by 30%.",
+        "Established a digital transformation roadmap, positioning the company as a leader in tech innovation.",
+        "Increased digital campaign effectiveness by 40% through strategic use of data analytics."
+      ]
+    },
+    {
+      "company": "Digital Wave",
+      "position": "Senior Digital Strategist",
+      "url": "https://digitalwave.com",
+      "startDate": "2018-06-01",
+      "endDate": "2021-09-01",
+      "summary": "Crafted and executed digital strategies to enhance online presence and audience engagement for high-profile clients.",
+      "highlights": [
+        "Increased client social media following by 200% through targeted content campaigns.",
+        "Implemented data-driven approaches to optimize content performance and ROI.",
+        "Led a team of 10 digital strategists in developing comprehensive media plans for diverse industries."
+      ]
+    },
+    {
+      "company": "NextGen Media",
+      "position": "Chief Innovation Officer",
+      "url": "https://nextgenmedia.com",
+      "startDate": "2014-02-01",
+      "endDate": "2018-05-01",
+      "summary": "Directed the innovation team to explore and implement new digital media technologies and content strategies.",
+      "highlights": [
+        "Spearheaded the development of a new interactive media platform that attracted 1 million users in its first year.",
+        "Collaborated with cross-functional teams to integrate emerging technologies like AR and VR into media content.",
+        "Won the 'Best Digital Innovation' award at the 2017 Media Excellence Awards."
+      ]
+    },
+    {
+      "company": "Innovative Media Solutions",
+      "position": "President",
+      "url": "https://innovativemedia.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Led the creation and implementation of cutting-edge digital media strategies, driving the company's vision and growth.",
+      "highlights": [
+        "Founded the company, establishing its presence in the competitive digital media market.",
+        "Developed innovative content strategies that increased audience engagement by 50%.",
+        "Secured partnerships with leading tech companies to enhance media distribution channels."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "ASTRO",
+      "level": "Expert",
+      "keywords": ["Emerging Technologies", "AI-Powered Tools", "Digital Transformation"]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": ["AR/VR", "Interactive Media", "Content Creation"]
+    },
+    {
+      "name": "SEO",
+      "level": "Expert",
+      "keywords": ["Content Strategy", "Audience Engagement", "Digital Campaigns"]
+    },
+    {
+      "name": "CSV",
+      "level": "Advanced",
+      "keywords": ["Performance Optimization", "ROI Analysis", "Data-Driven Decisions"]
+    },
+    {
+      "name": "Ghostwriting",
+      "level": "Expert",
+      "keywords": ["Team Management", "Cross-Functional Collaboration", "Strategic Planning"]
+    },
+    {
+      "name": "Disruptor",
+      "level": "Advanced",
+      "keywords": ["Tech Partnerships", "Media Distribution", "Business Growth"]
+    },
+    {
+      "name": "SocialMedia",
+      "level": "Advanced",
+      "keywords": ["Social Media Campaigns", "Audience Growth", "Engagement Strategies"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Media Platform",
+      "isActive": true,
+      "startDate": "2015-03-01",
+      "endDate": "2017-03-01",
+      "description": "Developed an interactive media platform that revolutionized audience engagement.",
+      "highlights": ["Attracted 1 million users in the first year", "Won 'Best Digital Innovation' award"],
+      "url": "https://interactivemedia.com/"
+    },
+    {
+      "name": "AI Content Tool",
+      "isActive": true,
+      "startDate": "2022-01-01",
+      "endDate": "2023-06-01",
+      "description": "Launched an AI-powered tool that streamlined content creation.",
+      "highlights": ["Reduced production time by 30%", "Enhanced content quality"],
+      "url": "https://aicontenttool.com/"
+    },
+    {
+      "name": "Transformation Roadmap",
+      "isActive": false,
+      "startDate": "2021-10-01",
+      "endDate": "2022-12-01",
+      "description": "Developed a digital transformation roadmap for Tech Pioneers.",
+      "highlights": ["Implemented cutting-edge technologies", "Increased campaign effectiveness by 40%"],
+      "url": "https://techpioneers.com/transformation"
+    },
+    {
+      "name": "AR/VR Integration",
+      "isActive": true,
+      "startDate": "2016-05-01",
+      "endDate": "2018-08-01",
+      "description": "Integrated AR and VR technologies into NextGen Media's content.",
+      "highlights": ["Boosted engagement by 50%", "Expanded media offerings with immersive content"],
+      "url": "https://nextgenmedia.com/arvr"
+    },
+    {
+      "name": "Social Growth",
+      "isActive": false,
+      "startDate": "2019-09-01",
+      "endDate": "2021-05-01",
+      "description": "Led a social media campaign that significantly increased client followings.",
+      "highlights": ["Increased following by 200%", "Developed targeted content strategies"],
+      "url": "https://digitalwave.com/socialgrowth"
+    },
+    {
+      "name": "Astro Framework Project",
+      "isActive": true,
+      "startDate": "2023-07-01",
+      "endDate": "Present",
+      "description": "Utilized Astro framework and Tailwind CSS to create a dynamic web project.",
+      "highlights": ["Improved website performance", "Enhanced SEO capabilities"],
+      "url": "https://astroframeworkproject.com/"
+    },
+    {
+      "name": "Ghostwriting Initiative",
+      "isActive": true,
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "description": "Provided ghostwriting services for high-profile clients.",
+      "highlights": ["Created engaging content", "Enhanced client brand presence"],
+      "url": "https://ghostwritinginitiative.com/"
+    },
+    {
+  "name": "SEO Optimization Project",
+  "isActive": true,
+  "startDate": "2022-05-01",
+  "endDate": "2023-05-01",
+  "description": "Led an SEO optimization project to improve search engine rankings.",
+  "highlights": ["Increased organic traffic by 50%", "Enhanced site visibility on search engines"],
+  "url": "https://seooptimizationproject.com/"
+},
+{
+  "name": "CSV Data Analysis Tool",
+  "isActive": false,
+  "startDate": "2021-02-01",
+  "endDate": "2022-02-01",
+  "description": "Developed a tool for analyzing CSV data to extract valuable insights.",
+  "highlights": ["Streamlined data analysis process", "Provided actionable insights for decision-making"],
+  "url": "https://csvanalysistool.com/"
+}
+  ]
+}

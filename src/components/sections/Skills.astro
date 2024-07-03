@@ -1,0 +1,62 @@
+---
+import Section from "../Section.astro";
+
+import { skills } from "@cv";
+
+import ASTRO from "@/icons/Astro.astro";
+import HTML from "@/icons/Html.astro";
+import CSS from "@/icons/Css.astro";
+import SEO from "@/icons/Seo.astro";
+import CSV from "@/icons/Csv.astro";
+import SocialMedia from "@/icons/Social.astro";
+import Disruptor from "@/icons/Disruptor.astro";
+import Ghostwriting from "@/icons/Writing.astro";
+
+const SKILLS_ICONS: Record<string, any> = {
+    ASTRO,
+    HTML,
+    CSS,
+    SEO,
+    CSV,
+    SocialMedia,
+    Disruptor,
+    Ghostwriting,
+};
+---
+
+<Section title="Skills">
+    <ul>
+        {
+            skills.map(({ name }) => {
+                const iconName = name === "Next.js" ? "Next" : name;
+                const Icon = SKILLS_ICONS[iconName];
+
+                return (
+                    <li>
+                        {Icon && <Icon />} <span>{name}</span>
+                    </li>
+                );
+            })
+        }
+    </ul>
+</Section>
+
+<style>
+    ul {
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li {
+        align-items: center;
+        background: #eee;
+        border-radius: 6px;
+        color: black;
+        display: flex;
+        font-size: 0.8rem;
+        font-weight: 500;
+        gap: 4px;
+        padding: 0.2rem 0.6rem;
+    }
+</style>
