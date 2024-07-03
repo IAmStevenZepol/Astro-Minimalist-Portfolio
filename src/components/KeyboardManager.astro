@@ -112,6 +112,12 @@ const profilesInfo = profiles.map(({ network, url }) => {
         }
     }
 
+    @media print {
+		ninja-keys {
+			display: none !important;
+		}
+    }
+
     @media (min-width: 601px) {
         #normal-footer {
             display: block;
