@@ -99,15 +99,19 @@
   ],
   "education": [
     {
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
-    }
+      "institution": "Stanford University",
+      "startDate": "2013-09-01",
+      "endDate": "2015-06-01",
+      "degree": "Master's Degree in Media Studies",
+      "description": "Specialized in emerging media technologies and innovation management."
+    },
+    {
+    "institution": "University of California, Berkeley",
+    "startDate": "2008-09-01",
+    "endDate": "2012-06-01",
+    "degree": "Bachelor's Degree in Digital Media and Communications",
+    "description": "Focused on media production, digital strategy, and content creation."
+  }
   ],
   "awards": [
     {
