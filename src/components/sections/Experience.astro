@@ -14,11 +14,10 @@ import { work } from "@cv";
                     endDate,
                     position,
                     summary,
-                    highlights,
                 }) => {
                     const startYear = new Date(startDate).getFullYear();
                     const endYear =
-                        endDate != null
+                        endDate != ""
                             ? new Date(endDate).getFullYear()
                             : "Present";
                     const years = `${startYear} - ${endYear}`;
