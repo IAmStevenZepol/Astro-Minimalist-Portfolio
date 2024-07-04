@@ -48,7 +48,7 @@
 
 ## 🚀 Start
 
-### 1. Usa este [repo](https://github.com/stevenzepol/astro-minimalist-portfolio) como _template_ de un proyecto de Astro
+### 1. Use this [repository](https://github.com/stevenzepol/astro-minimalist-portfolio) as a _template_ for your Astro project.
 
 
 - I use [pnpm](https://pnpm.io/installation) as package manager.
@@ -71,8 +71,7 @@ Edit the `cv.json` file to create your own printable Portafolio/CV.
 pnpm dev
 ```
 
-
-1. Open [**http://localhost:4321**](http://localhost:4321/) in your browser to see the portfolio 🚀
+1. To view your portfolio, open [**http://localhost:4321**](http://localhost:4321/) in your browser 🚀
 
 
 ## 🧞 Commands
