@@ -12,15 +12,15 @@
 </div>
 
 <div align="center">
-    <a href="#🚀 Start">
+    <a href="#🚀-Start">
         Start
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞 Commands">
+    <a href="#🧞-Commands">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑 License">
+    <a href="#🔑-License">
         Licence
     </a>
    
@@ -77,20 +77,6 @@ pnpm dev
 
 ## 🧞 Commands
 
-|     | Comando          | Acción                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
-
-
-
-## 🔑 License
-
-[MIT](LICENSE.txt) - Created by [**Steven Zepol**](https://github.com/stevenzepol/).
-
-## 🧞 Commands
-
 All commands are run from the root of the project, from a terminal:
 
 |   | Command                   | Action                                           |
@@ -104,3 +90,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## 🔑 License
+
+[MIT](LICENSE.txt) - Created by [**Steven Zepol**](https://github.com/stevenzepol/).
