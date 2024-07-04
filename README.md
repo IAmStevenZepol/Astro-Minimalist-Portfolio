@@ -12,15 +12,15 @@
 </div>
 
 <div align="center">
-    <a href="#🚀-Start">
+    <a href="#🚀 Start">
         Start
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🧞-Commands">
+    <a href="#🧞 Commands">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#🔑-Licence">
+    <a href="#🔑 License">
         Licence
     </a>
    
@@ -85,9 +85,9 @@ pnpm dev
 
 
 
-## 🔑 Licence
+## 🔑 License
 
-[MIT](LICENSE.txt) - Creado por [**midudev**](https://midu.dev).
+[MIT](LICENSE.txt) - Creado por [**Steven Zepol**](https://github.com/stevenzepol/).
 
 ## 🧞 Commands
 
