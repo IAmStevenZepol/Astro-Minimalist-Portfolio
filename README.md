@@ -87,7 +87,7 @@ pnpm dev
 
 ## 🔑 License
 
-[MIT](LICENSE.txt) - Creado por [**Steven Zepol**](https://github.com/stevenzepol/).
+[MIT](LICENSE.txt) - Created by [**Steven Zepol**](https://github.com/stevenzepol/).
 
 ## 🧞 Commands
 
